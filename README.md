@@ -1,27 +1,37 @@
-# Luna Café
+# Luna Café ☕
 
 A responsive one-page business website created as a web development practice project.
 
+## 📌 Project Overview
+
+Luna Café is a responsive café business website designed to showcase the brand, menu, services, gallery, testimonials, and contact information in a clean and user-friendly interface.
+
 ## Project Type
+
 Business Website
 
 ## Business
+
 Luna Café
 
 ## Location
+
 Villasis, Pangasinan, Philippines
 
-## Technologies
+## 🛠️ Technologies
+
 - HTML5
 - CSS3
 - JavaScript
+- Responsive Web Design
 
-## Features
+## ✨ Features
+
 - Responsive navigation with mobile hamburger menu
 - Hero section
 - About section
 - Menu showcase
-- Why Choose Us
+- Why Choose Us section
 - Image gallery
 - Testimonials (sample content)
 - Contact information
@@ -29,28 +39,43 @@ Villasis, Pangasinan, Philippines
 - Responsive design
 - Smooth scrolling
 - Basic accessibility
+- Mobile-friendly layout
 
-## Project Structure
+## 📂 Project Structure
+
 ```text
 luna-cafe/
-├── index.html   # Page structure and content
-├── style.css    # All styling and responsive rules
-├── script.js    # Menu, scroll effects, form validation
-├── images/      # hero, about, gallery-1..6 and one menu-*.jpg photo per menu item
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── hero image
+│   ├── about image
+│   ├── gallery images
+│   └── menu images
 └── README.md
-```
 
-## Run Locally
-Open `index.html` in a browser, or use the VS Code "Live Server" extension.
+🚀 Run Locally
+Download or clone this repository.
+Open the project folder in VS Code.
+Open index.html in a browser.
 
-## Deploy to GitHub Pages
-1. Create a GitHub repository and push this folder's contents.
-2. Go to **Settings > Pages**.
-3. Under **Source**, choose the `main` branch and `/ (root)`, then save.
-4. Visit the URL GitHub shows after a minute or two.
+You can also use the VS Code Live Server extension for local development.
 
-## Purpose
-This project was created to practice building a professional business website for a fictional local business.
+🌐 Live Demo
 
-## Disclaimer
+luna-cafe-pbswrf9st-japs-tech.vercel.app
+
+🎯 Purpose
+
+This project was created to practice building a professional responsive business website while improving skills in HTML, CSS, JavaScript, responsive design, accessibility, and frontend form validation.
+
+👨‍💻 Developer
+
+John Paul Dalugdog
+
+BSIT Student | Aspiring Web Developer
+
+⚠️ Disclaimer
+
 Luna Café is a fictional business created for educational and portfolio practice purposes. Contact information, testimonials, and business details are sample content.
